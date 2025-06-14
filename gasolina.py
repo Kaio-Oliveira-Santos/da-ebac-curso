@@ -13,7 +13,6 @@ sns.lineplot(x='dia', y='venda', data=df, marker='o', linestyle='-', color='#FF5
 
 # Adicionar título e subtítulo
 plt.title('Variação Diária do Preço de Venda da Gasolina', fontsize=18, fontweight='bold', color='#333333')
-plt.suptitle('Período de 10 Dias (Dados Fictícios)', fontsize=12, color='#666666', y=0.92)
 
 # Adicionar rótulos aos eixos com maior clareza
 plt.xlabel('Dia do Mês', fontsize=14, color='#333333')
