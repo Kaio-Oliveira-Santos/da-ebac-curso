@@ -13,7 +13,6 @@ Controle de Versão com Git: Cada etapa do desenvolvimento – desde a criação
 git add: Adicionar arquivos à área de preparação.
 git commit: Registrar alterações com mensagens claras e concisas.
 git push: Sincronizar o repositório local com o GitHub, garantindo que o trabalho esteja sempre atualizado e acessível.
-Documentação e Comunicação (README.md): A criação deste README.md estilizado e informativo destaca a habilidade de documentar projetos de forma eficaz. Um bom README é fundamental para a comunicabilidade de um projeto, permitindo que outros entendam rapidamente seu propósito, metodologia e resultados.
 
 🛠️ Tecnologias Utilizadas
 Python: A linguagem de programação base para toda a análise.
